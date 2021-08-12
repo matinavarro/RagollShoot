@@ -1,0 +1,15 @@
+﻿  Juego.cpp
+C:\Users\mati\Desktop\TP-Ragdoll\TP2-MyA2\Src\Juego.cpp(12,30): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\mati\Desktop\TP-Ragdoll\TP2-MyA2\Src\Juego.cpp(236,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\mati\Desktop\TP-Ragdoll\TP2-MyA2\Src\Juego.cpp(237,32): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\mati\Desktop\TP-Ragdoll\TP2-MyA2\Src\Juego.cpp(244,47): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\mati\Desktop\TP-Ragdoll\TP2-MyA2\Src\Juego.cpp(245,32): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\mati\Desktop\TP-Ragdoll\TP2-MyA2\Src\Juego.cpp(253,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\mati\Desktop\TP-Ragdoll\TP2-MyA2\Src\Juego.cpp(261,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\mati\Desktop\TP-Ragdoll\TP2-MyA2\Src\Juego.cpp(269,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\mati\Desktop\TP-Ragdoll\TP2-MyA2\Src\Juego.cpp(277,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\mati\Desktop\TP-Ragdoll\TP2-MyA2\Src\Juego.cpp(285,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\mati\Desktop\TP-Ragdoll\TP2-MyA2\Src\Juego.cpp(293,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Ragdoll.cpp
+  Generando código...
+  Box2dResortes.vcxproj -> C:\Users\mati\Desktop\TP-Ragdoll\TP2-MyA2\Bin\Debug\Box2dResortes.exe
